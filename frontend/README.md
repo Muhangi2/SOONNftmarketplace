@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Solana Nft Marketplace (FinalProjectSolana) [![](https://img.shields.io/badge/nftmarketsolana-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/)
+* ## :dart: ${\color{green}In\ this\ project\ you\ have\ to\ know:}$ 
 
-## Getting Started
+<div>
+      <img src="https://user-images.githubusercontent.com/109158340/207687793-d2fe408f-6bfc-4ce6-bfd0-ca7e8bcc17e7.png" title="solana" **alt="solana" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Git" **alt="Git" width="40" height="40"/> 
+  
+ </div>
+ 
+ ---
+ 
+* ##  🛠   ${\color{green}Install\ dependencies}$
+ 
+ ```ruby
+ npm install @metaplex-foundation/js
+ npm install @solana/wallet-adapter-base
+ npm install @solana/wallet-adapter-react-ui
+ npm install @tailwindcss/typography
+ npm install typewriter-effect
+ npm install @solana/web3.js
+ 
+ ```
 
-First, run the development server:
+Responsive                     |  Desktop
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/109158340/211107037-ed5e8c13-731d-4e08-8a66-62cc34ea7406.png)  |  ![image](https://user-images.githubusercontent.com/109158340/211107207-1049b8d5-74cd-465a-8c0d-136db1cf8a94.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+*  ## ☝ ${\color{green}With\ this\ App}$ 🚀
+ 
+Solana                     |  NftMarketplace
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/109158340/211107853-76da87a3-7d72-48b4-a359-1d33ddd6bc2d.png)  |  ![image](https://user-images.githubusercontent.com/109158340/211110422-6cd99080-3fd9-4b50-8811-2ce0c023eb47.png)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![image](https://user-images.githubusercontent.com/109158340/211157024-2b45fcfd-5ad0-4a89-bcf9-2bafabb0330b.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
+* ## 📝  ${\color{green}Let's\ start}$
+ To run this repo :
+ ```
+ npm install
+ ```
+ or
+  ```
+ yarn install
+ ```
+ >__Warning__ Please be sure that you install all dependencies!
+ 
+ And write in your terminal :
+ 
+  ```
+ npm run dev
+ ```
+ 
+ And have fun 🎉
+ 
+* ## ☕  ${\color{green}Let's\ scroll\ through\ the\ pages}$
+ 
+  > [![](https://img.shields.io/badge/CheckWallet-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/checkwallet) 
+  * ###  👀  ${With\ this\ page\ you\ can\ learn\ your\ balance\ and\ airdrop\ to\ your\ account.}$
+ ![image](https://user-images.githubusercontent.com/109158340/211146778-c8001894-13c7-4013-a10a-2e8d85b44bdc.png)
+ ---
+ > [![](https://img.shields.io/badge/DisplayNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/display)
+  * ###  🛠  ${If\ you\ have\ Nfts\ in\ your\ account\ this\ page\ displays\ your\ all\ nfts\ automaticly.}$
+![image](https://user-images.githubusercontent.com/109158340/211146824-b87dd13c-de20-499d-9a6b-a90120f0510b.png)
+---
+> [![](https://img.shields.io/badge/Explore-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/explore) 
+  * ###  ✨  ${Explore !!!\ You\ can\ explore\ and\ filter\ Nfts\ by\ names.}$
+![image](https://user-images.githubusercontent.com/109158340/211187603-9dad12f4-1de1-4535-a82b-c3d0173fb8b0.png)
+---
+> [![](https://img.shields.io/badge/CandyMachineNfts-blueviolet?style=for-the-badge)](https://nftmarketsolana.vercel.app/candymachine) 
+  * ###  🍭  ${If\ you\ have\ cany\ machine\ addres\ you\ can\ easily\ get\ your\ nfts\ from\ candy\ machine.}$ 
+  > If you have no address you can try with mine :
+   ```
+   2uE3z1PKT9EERK1pkxBt1pzmtmJXdFqYM2pMzwHUVHTy
+   ```
+![image](https://user-images.githubusercontent.com/109158340/211147092-68ec1f79-c64f-4bd8-96b4-50e8ed55ed9c.png)
 
-## Learn More
+ 
+ 
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
