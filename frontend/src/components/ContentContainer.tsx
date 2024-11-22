@@ -41,7 +41,7 @@ export const ContentContainer: FC = (props) => {
           </li>
           <li>
             <Link href="/soluno">
-              <a>SolUNO</a>
+              <a>Soluno</a>
             </Link>
           </li>
         

@@ -1,17 +1,17 @@
 import type { NextPage } from "next"
 import Head from "next/head"
-import { SolunoView } from "../views"
+import { MintView } from "../views"
 
-const Soluno: NextPage = (props) => {
+const Mint: NextPage = (props) => {
   return (
     <div>
       <Head>
         <title>Nft Marketplace</title>
         <meta name="description" content="Basic Functionality" />
       </Head>
-      <SolunoView />
+      <MintView />
     </div>
   )
 }
 
-export default Soluno
+export default Mint

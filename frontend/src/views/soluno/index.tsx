@@ -3,7 +3,7 @@ import { FetchRandomNft } from "../../components/FetchRandomNft"
 import SolunoGame  from "../../components/SolunoGame"
 
 
-export const SolUnoView: FC = ({ }) => {
+export const SolunoView: FC = ({ }) => {
     return (
        
         <div className="md:hero mx-auto p-4">
