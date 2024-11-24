@@ -8,6 +8,7 @@ import {
     SolletWalletAdapter,
     TorusWalletAdapter,
     // LedgerWalletAdapter,
+    // LedgerWalletAdapter,
     // SlopeWalletAdapter,
 } from '@solana/wallet-adapter-wallets';
 import { Cluster, clusterApiUrl } from '@solana/web3.js';
